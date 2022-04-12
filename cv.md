@@ -64,7 +64,7 @@ const poll = {
 
 **Newmax Technologies** | IT Department
 
-**University Hackathon**
+**University Hackathon** 
 
 **University Projects**
 
@@ -72,9 +72,9 @@ const poll = {
 
 ---
 
-**University of Westminter** | Foundation Course
+**University of Westminter** | Foundation Course | 2016-2017
 
-**ASA College** | Associate Degree
+**ASA College** | Associate Degree 2017-2019
 
 **Western Governors University** | Bachelors Degree(Current)
 
