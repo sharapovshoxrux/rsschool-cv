@@ -74,7 +74,7 @@ const poll = {
 
 **University of Westminter** | Foundation Course | 2016-2017
 
-**ASA College** | Associate Degree 2017-2019
+**ASA College** | Associate Degree | 2017-2019
 
 **Western Governors University** | Bachelors Degree(Current)
 
