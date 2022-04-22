@@ -1,0 +1,177 @@
+body {
+  max-width: 800px;
+  margin: auto;
+}
+
+.nav ul {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.nav li {
+  float: left;
+  width: 114.05px;
+}
+
+.nav li a {
+  display: block;
+  color: #434e5e;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav li a:hover {
+  background-color: #434e5e;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.main-header {
+  height: 200px;
+  background-color: #434e5e;
+}
+
+.main-header img {
+  float: left;
+  background-color: #aeb2b5;
+}
+
+.header-title {
+  color: rgba(255, 255, 255, 0.9);
+  position: relative;
+  float: right;
+  text-align: center;
+  left: -20%;
+  top: 40%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.container {
+  color: #434e5e;
+  text-align: left;
+  margin: 50px 30px 50px 30px;
+}
+
+.section-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+#contacts li {
+  list-style-type: none;
+  margin: 0;
+}
+
+#contacts li:hover {
+  opacity: 85%;
+}
+
+#contacts li a {
+  display: block;
+  color: #434e5e;
+  padding: 14px 0 14px 0;
+  text-decoration: none;
+  margin: 0;
+}
+
+#contacts i {
+  margin: 0;
+  padding-right: 14px;
+}
+
+#education h3 {
+  display: inline;
+  padding-left: 10px;
+}
+
+#education h4 {
+  opacity: 80%;
+  display: inline;
+}
+
+#education h5 {
+  opacity: 50%;
+  padding-left: 10px;
+}
+
+#xperience a {
+  text-decoration: none;
+  color: #434e5e;
+}
+
+#xperience h3 {
+  display: inline;
+  padding-left: 10px;
+}
+
+#xperience h4 {
+  opacity: 80%;
+  display: inline;
+}
+
+.project {
+  padding: 18px 0px;
+}
+
+#code pre {
+  font-size: 14px;
+}
+
+.section-list {
+  list-style-type: none;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#skills li {
+  padding: 12px 14px;
+}
+
+#languages li {
+  padding: 12px 14px;
+}
+
+span {
+  opacity: 80%;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #434e5e;
+  padding: 20px;
+}
+
+.footer-content {
+  color: #fff;
+}
+
+.footer a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.9);
+  display: block;
+  margin: 0;
+}
+
+.footer i {
+  margin: 0;
+  padding-right: 8px;
+}
+
+.rss {
+  width: 121px;
+  height: 45px;
+  background-image: url("https://rs.school/images/rs_school_js.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
